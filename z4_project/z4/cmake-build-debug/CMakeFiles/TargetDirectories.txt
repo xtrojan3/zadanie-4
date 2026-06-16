@@ -1,3 +1,0 @@
-C:/Users/matus/Desktop/prog2/z4_project/z4/cmake-build-debug/CMakeFiles/z4.dir
-C:/Users/matus/Desktop/prog2/z4_project/z4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/matus/Desktop/prog2/z4_project/z4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
